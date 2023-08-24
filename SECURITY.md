@@ -14,4 +14,4 @@ currently being supported with security updates.
 
 ## Reporting a Vulnerability
 
-Please email me at 2305658722@qq.com
+Please email me at 2305658722@qq.com, or directly contribute into the project. 
